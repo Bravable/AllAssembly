@@ -6,4 +6,4 @@
         * Renekton, Tryndamere, Urgot, Warwick, XinZhao, Yorick, Garen, Mordekaiser
         * Morgana, Rumble, Ryze, Taliyah, Trundle, TwistedFate
 
-* https://github.com/Roxy09099/Premium-Series
+* https://github.com/ahmed98khaled/SimpleAIO
