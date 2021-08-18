@@ -9,6 +9,6 @@
         * Draven, Evelynn, Ezreal, Graves, Irelia, Jinx, Kaisa, Kalista, Lucian
         * Nasus, Nidalee, Nocturne, Poppy, Qiyana, Senna, Teemo, Xerath, Zoe
 * Prediction
-    * Include SDK Beta Prediction and SPrediction
+    * Include SDK Beta Prediction and SPrediction improve
         
 * https://github.com/ensoulsharp-io/EnsoulSharp.Assemblies
