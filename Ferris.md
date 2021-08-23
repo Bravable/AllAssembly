@@ -4,12 +4,17 @@ Stats Tracker: https://ferrisbot.com/ferrisaio/
 
 * FerrisAIO (Free version)
     * Champion
-        * Alistar, Amumu, Ashe, Azir, Blitzcrank, Caitlyn, Corki, Darius
-        * Draven, Ezreal, Garen, Graves, Gwen, Irelia, Jhin, Jinx, Kalista
-        * Kayle, Kled, KogMaw, Lucian, Lux, MissFortune, Neeko, Pyle, Qiyana
-        * Quinn, Rengar, Samira, Sivir, Sylas, Tristana, Tryndamere, TwistedFate
-        * Twitch, Udyr, Urgot, Varus, Vayne, Volibear, Warwick, Xayah, XinZhao
-        * Yorick, Yuumi, Zed
+        * Ahri, Alistar, Amumu, Annie, Ashe, Azir, Blitzcrank, Brand
+        * Caitlyn, Cassiopeia, Corki, Darius, Diana, Draven, Ekko,
+        * Elise, Evelynn, Ezreal, Fiora, Gangplank, Garen, Gnar
+        * Gragas, Graves, Gwen, Heimerdinger, Irelia, JarvanIV,
+        * Jax, Jhin, Jinx, Kalista, Kassadin, Kayle, Kayn, Kindred
+        * Kled, KogMaw, Leona, Lucian, Lux, Malphite, MissFortune
+        * Nunu, Neeko, Olaf, Orianna, Pyke, Qiyana, Quinn, Rakan
+        * Rengar, Samira, Shaco, Sivir, Sylas, Tristana, Tryndamere
+        * TwistedFate, Twitch, Udyr, Urgot, Varus, Vayne, Velkoz
+        * Vi, Viktor, Volibear, Warwick, Xayah, XinZhao, Yorick
+        * Yuumi, Zac, Zed, Zyra
     * Utility
         * Custom Prediction
         * Custom Orbwalker
