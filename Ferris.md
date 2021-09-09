@@ -13,8 +13,8 @@ Stats Tracker: https://ferrisbot.com/ferrisaio/
         * Nunu, Neeko, Olaf, Orianna, Pyke, Qiyana, Quinn, Rakan
         * Rengar, Samira, Shaco, Sivir, Sylas, Tristana, Tryndamere
         * TwistedFate, Twitch, Udyr, Urgot, Varus, Vayne, Velkoz
-        * Vi, Viktor, Volibear, Warwick, Xayah, XinZhao, Yorick
-        * Yuumi, Zac, Zed, Zyra
+        * Vex, Vi, Viktor, Volibear, Warwick, Xayah, XinZhao
+        * Yorick, Yuumi, Zac, Zed, Zyra
     * Utility
         * Custom Prediction
         * Custom Orbwalker
