@@ -1,20 +1,24 @@
 ## Ferris Assembly
 Discord: Ferris#5083
 Stats Tracker: https://ferrisbot.com/ferrisaio/
+Last Updated: 06-01-2022
+Latest Version: 1.0.0.42
 
 * FerrisAIO (Free version)
-    * Champion
-        * Ahri, Alistar, Amumu, Annie, Ashe, Azir, Blitzcrank, Brand
-        * Caitlyn, Cassiopeia, Corki, Darius, Diana, Draven, Ekko,
-        * Elise, Evelynn, Ezreal, Fiora, Gangplank, Garen, Gnar
-        * Gragas, Graves, Gwen, Heimerdinger, Irelia, JarvanIV,
-        * Jax, Jhin, Jinx, Kalista, Kassadin, Kayle, Kayn, Kindred
-        * Kled, KogMaw, Leona, Lucian, Lux, Malphite, MissFortune
-        * Nunu, Neeko, Olaf, Orianna, Pyke, Qiyana, Quinn, Rakan
-        * Rengar, Samira, Shaco, Sivir, Sylas, Tristana, Tryndamere
-        * TwistedFate, Twitch, Udyr, Urgot, Varus, Vayne, Velkoz
-        * Vex, Vi, Viktor, Volibear, Warwick, Xayah, XinZhao
-        * Yorick, Yuumi, Zac, Zed, Zyra
+	* Champions
+		* Ahri, Akali, Akshan, Alistar, Amumu, Anivia, Annie
+		* Ashe, Azir, Blitzcrank, Brand, Caitlyn, Cassiopeia
+		* Corki, Darius, Diana, Draven, Ekko, Elise, Evelynn
+		* Ezreal, Fiora, Gangplank, Garen, Gnar, Gragas, Graves
+		* Gwen, Heimerdinger, Irelia, JarvanIV, Jax, Jhin, Jinx
+		* Kalista, Kassadin, Katarina, Kayle, Kayn, Kindred, Kled
+		* KogMaw, Leblanc, LeeSin, Leona, Lillia, Lucian, Lux
+		* Malphite, MissFortune, Neeko, Nunu, Olaf, Orianna, Pyke
+		* Qiyana, Quinn, Rakan, Rengar, Riven, Samira, Shaco
+		* Sion, Sivir, Sylas, TahmKench, Teemo, Tristana
+		* Tryndamere, TwistedFate, Twitch, Udyr, Urgot, Varus
+		* Vayne, Velkoz, Vex, Vi, Viktor, Volibear, Warwick
+		* Xayah, XinZhao, Yorick, Yuumi, Zac, Zed, Zilean, Zyra
     * Utility
         * Custom Prediction
         * Custom Orbwalker
@@ -41,5 +45,4 @@ Stats Tracker: https://ferrisbot.com/ferrisaio/
         * Vision Tracker (Show where enemy wards can see visually https://gyazo.com/446ce770aa783c64e0d5f2273b4b3532 )
         
 * https://github.com/FerrisComplex/ferriscomplex.github.io/
-
 
