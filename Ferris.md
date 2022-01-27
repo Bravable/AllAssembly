@@ -1,8 +1,8 @@
 ## Ferris Assembly
 Discord: Ferris#5083  
 Stats Tracker: https://ferrisbot.com/ferrisaio/  
-Last Updated: 23-01-2022  
-Latest Version: 1.0.0.44  
+Last Updated: 26-01-2022  
+Latest Version: 1.0.0.46  
   
 * FerrisAIO (Free version)
     * Champions
