@@ -2,6 +2,8 @@
 
 ![HeyaLogo](https://user-images.githubusercontent.com/53314225/161516285-90c64135-df8e-4766-a17a-a7ac8fc955ab.png)
 
+https://github.com/krisoft20/HeyaAIO-Assembly
+
 HeyaAIO is just ordinary AIO which contains:
 * Own Orbwalker,
 * Own Prediction,
