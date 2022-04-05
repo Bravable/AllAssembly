@@ -12,3 +12,4 @@ if missing some assembly can create Pull requests, future we will make a new dat
 * [Shinobi Assembly](https://github.com/Bravable/AllAssembly/blob/main/Shinobi.md)
 * [BlueBird Assembly](https://github.com/Bravable/AllAssembly/blob/main/BlueBird.md)
 * [Akeno Assembly](https://github.com/Bravable/AllAssembly/blob/main/Akeno.md)
+* [Heya Assembly](https://github.com/Bravable/AllAssembly/blob/main/Heya.md)
