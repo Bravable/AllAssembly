@@ -1,5 +1,5 @@
 
-ToxicAio Assembly
+ToxicAio Assembly (Paid version)
 Discord: https://discord.gg/8ETGWyatwA
 
     * Champion
