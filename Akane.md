@@ -9,4 +9,4 @@ Discord: https://discord.gg/8ETGWyatwA
         * Rengar, Samira, Tryndamere, Twitch, Vex, Vladimir
         * Yone, Zeri, Ziggs, Akshan
 
-* https://github.com/AkaneV2/ToxicAio
+* https://github.com/AkaneV2/ToxicAio-Paid
