@@ -3,7 +3,7 @@
 * EvaAIO
     * Champions:
         * Blitzcrank, Caitlyn, Ezreal, Gangplank, Irelia, Kaisa
-        * Kalista, Katarina, TwistedFate, Xerath
+        * Kalista, Katarina, Senna, TwistedFate, Xerath
 
     * Awereness:
         * Damage Indicator.
@@ -17,6 +17,7 @@
 
     * Utilities:
         * Base Ult.
+        * Spell Timer.
 
 Discord: soon.
 * https://github.com/AkenoHimejimaa/EvaAIO
