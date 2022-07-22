@@ -1,6 +1,6 @@
 
 ToxicAio Assembly (Paid version)   
-Discord: https://discord.gg/8ETGWyatwA
+Discord: https://discord.gg/HKnYn9Whus
 
     * Champion
         * Annie, Akali, Ashe, Belveth, Blitzcrank, Brand
