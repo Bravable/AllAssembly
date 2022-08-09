@@ -1,12 +1,9 @@
 
-ToxicAio Assembly (Paid version)   
+ToxicAio Assembly (Free version)   
 Discord: https://discord.gg/HKnYn9Whus
 
     * Champion
-        * Annie, Akali, Ashe, Belveth, Blitzcrank, Brand
-        * Cassiopeia, Diana, Ezreal, Kassadin, Karthus, Kennen, Khazix, Kindred
-        * Kogmaw, Lucian, Lux, Morgana, Pyke, Renata
-        * Rengar, Samira, Shyvanna, Tryndamere, Twitch, Vex, Vladimir
-        * Xerath, Yone, Zeri, Ziggs, Akshan
+        * Diana, Evelynn, Jhin, Nilah, Olaf,
+        * Tristana, Veigar, Xerath
 
-* https://github.com/AkaneV2/ToxicAio-Paid
+* https://github.com/AkaneV2/ToxicAio
