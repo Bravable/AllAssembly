@@ -2,8 +2,17 @@
 ToxicAio Assembly (Free version)   
 Discord: https://discord.gg/HKnYn9Whus
 
-    * Champion
-        * Diana, Evelynn, Jhin, Nilah, Olaf,
-        * Tristana, Veigar, Xerath
+- Akali
+- Diana
+- Cassiopeia
+- Evelynn
+- Jhin
+- Kalista
+- Nilah
+- Olaf
+- Tristana
+- Veigar
+- Viktor
+- Xerath
 
 * https://github.com/AkaneV2/ToxicAio
