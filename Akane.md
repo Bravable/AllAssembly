@@ -1,18 +1,11 @@
-
-ToxicAio Assembly (Free version)   
+FatalityAio Assembly (Free version)   
 Discord: https://discord.gg/HKnYn9Whus
 
-- Akali
-- Diana
-- Cassiopeia
-- Evelynn
-- Jhin
-- Kalista
-- Nilah
-- Olaf
+- Ezreal
+- Khazix
+- Sylas
 - Tristana
-- Veigar
-- Viktor
+- AD & AP Varus (You can choose between them)
 - Xerath
 
-* https://github.com/AkaneV2/ToxicAio
+* [https://github.com/AkaneV2/FatalityAIO]
